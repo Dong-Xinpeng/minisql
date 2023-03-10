@@ -1,0 +1,7 @@
+bin/
+build/
+dbfiles/
+datas/
+.vscode/
+.idea/
+cmake-build-*/
